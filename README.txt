@@ -1,2 +1,1 @@
-#project: Java-09-lesson03-demo
-Released todo-app-1.0
+Version: todo-app-2.0-SNAPSHOT
